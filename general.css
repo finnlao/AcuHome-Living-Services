@@ -1,15 +1,17 @@
 nav{
-    position: fixed; right: 0;
-    background-color: yellow;
-    height: 25px;
+    background-color: #DCDCDC;
 }
 
-footer{
-    height: 25px;
-    text-align: right;
-    padding: 0 15.5px;
+.navbar{
+    margin: 0px;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
     font-size: 20px;
-    background-color: pink;
+}
+
+.icon-bar{ 
+    background-color: black;
 }
 
 .midDivision{
@@ -18,11 +20,10 @@ footer{
     height: 1080px;
 }
 
-.nav-links li{
-    display: inline-block;
-}
-
-.nav-links li a{
-    padding: 0 15.5px;
-    font-size: 20px;
+footer{
+    height: 50px;
+    text-align: right;
+    padding: 0 15.5px 15.5px;
+    font-size: 25px;
+    background-color: #999;
 }
