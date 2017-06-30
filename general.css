@@ -1,0 +1,20 @@
+nav{
+    position: fixed;
+    background-color: yellow;
+    height: 25px;
+}
+
+.midDivision{
+    background-image: url("Images/interiorHouse.jpg");
+    background-color: black;
+    height: 1080px;
+}
+
+.nav-links li{
+    display: inline-block;
+}
+
+.nav-links li a{
+    padding: 0 15.5px;
+    font-size: 20px;
+}
