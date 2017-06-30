@@ -1,20 +1,20 @@
 nav{
-    position: fixed;
-    background-color: yellow;
-    height: 25px;
+    background-color: #DCDCDC;
+}
+
+.navbar{
+    margin: 0px;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+}
+
+.icon-bar{ 
+    background-color: black;
 }
 
 .midDivision{
     background-image: url("Images/interiorHouse.jpg");
     background-color: black;
     height: 1080px;
-}
-
-.nav-links li{
-    display: inline-block;
-}
-
-.nav-links li a{
-    padding: 0 15.5px;
-    font-size: 20px;
 }
