@@ -1,0 +1,35 @@
+h1{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+#servicesOffered{
+    width: 1500px;
+    background-color: white;
+}
+body {
+    background-color: cyan;
+    padding-top: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#servicesOffered img{
+    border: 1px solid black;
+}
+
+.col-md-6{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+strong{
+    font-size: 25px;
+}
+
+ul{
+    font-size: 15px;
+}

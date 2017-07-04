@@ -1,0 +1,40 @@
+body {
+    padding-top: 52px;
+}
+
+#midDivision{
+    background-image: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),url("Images/interiorHouse.jpg") ;
+    background-color: black;
+    height: 1080px;
+}
+
+#midDivisionInfo{
+    text-align: center;
+    padding-top: 350px;
+    padding-bottom: 250px;
+}
+
+#midDivisionInfo h1{
+    font-size: 100px;
+    color: white;
+}
+
+#midDivisionInfo p{
+    font-size: 50px;
+    color:white;
+}
+
+#lowerDivision{
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: center;
+}
+
+#lowerDivision p{
+    font-size: 16px;
+}
